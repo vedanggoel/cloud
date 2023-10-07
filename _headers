@@ -3,4 +3,6 @@ X-Frame-Options: DENY
 
 Cache-Control: no-cache, no-store, must-revalidate
 
-Content-Security-Policy: block-all-mixed-content;
+Content-Security-Policy: block-all-mixed-content
+
+X-Content-Type-Options: nosniff
